@@ -1,1 +1,1 @@
-api.key filter=git-crypt diff=git-crypt
+src/main/java/com/example/demo/DemoApplication.java filter=git-crypt diff=git-crypt
