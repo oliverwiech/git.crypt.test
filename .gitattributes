@@ -1,1 +1,1 @@
-src/main/java/com/example/demo/ filter=git-crypt diff=git-crypt
+src/test/java/com/example/demo/DemoApplicationTests.java filter=git-crypt diff=git-crypt
